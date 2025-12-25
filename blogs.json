@@ -48,7 +48,7 @@
             "title": "Swift Evolution",
             "author": "Apple",
             "site_url": "https://www.swift.org/swift-evolution/",
-            "feed_url": "https://github.com/apple/swift-evolution/commits/main.atom"
+            "feed_url": "https://github.com/swiftlang/swift-evolution/commits/main.atom"
           }
         ]
       },
@@ -83,8 +83,8 @@
           {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
-            "site_url": "https://gaelfoppolo.com/",
-            "feed_url": "https://gaelfoppolo.com/feed.xml",
+            "site_url": "https://journal.gaelfoppolo.com",
+            "feed_url": "https://journal.gaelfoppolo.comfeed.xml",
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
@@ -186,7 +186,7 @@
             "title": "Alejandro Martinez's Blog",
             "author": "Alejandro Martinez",
             "site_url": "https://alejandromp.com",
-            "feed_url": "https://alejandromp.com/blog/feed.xml",
+            "feed_url": "https://alejandromp.com/development/feed.rss",
             "twitter_url": "https://twitter.com/alexito4"
           },
           {
@@ -234,7 +234,7 @@
             "title": "Alexander Sandberg’s Blog",
             "author": "Alexander Sandberg",
             "site_url": "https://alexandersandberg.com",
-            "feed_url": "https://alexandersandberg.com/feed.xml",
+            "feed_url": "https://alexandersandberg.com/feed.rss",
             "twitter_url": "https://twitter.com/alexandberg"
           },
           {
@@ -525,8 +525,8 @@
           {
             "title": "Artem Novichkov’s Blog",
             "author": "Artem Novichkov",
-            "site_url": "https://www.artemnovichkov.com/",
-            "feed_url": "https://www.artemnovichkov.com/feed.xml",
+            "site_url": "https://artemnovichkov.com/",
+            "feed_url": "https://artemnovichkov.com/feed.xml",
             "twitter_url": "https://twitter.com/iosartem"
           },
           {
@@ -630,8 +630,8 @@
           {
             "title": "Basem Emara’s Blog",
             "author": "Basem Emara",
-            "site_url": "http://basememara.com",
-            "feed_url": "http://basememara.com/feed/",
+            "site_url": "https://basememara.com/",
+            "feed_url": "https://basememara.com/feed/",
             "twitter_url": "https://twitter.com/basememara"
           },
           {
@@ -651,8 +651,8 @@
           {
             "title": "Becky Hansmeyer’s Blog",
             "author": "Becky Hansmeyer",
-            "site_url": "http://www.beckyhansmeyer.com/",
-            "feed_url": "http://www.beckyhansmeyer.com/category/general/feed/",
+            "site_url": "https://beckyhansmeyer.com/",
+            "feed_url": "https://beckyhansmeyer.com/category/general/feed/",
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
@@ -748,8 +748,8 @@
           {
             "title": "Bret Victor’s Blog",
             "author": "Bret Victor",
-            "site_url": "http://worrydream.com/",
-            "feed_url": "http://worrydream.com/feed.xml",
+            "site_url": "https://worrydream.com/",
+            "feed_url": "https://worrydream.com/feed.xml",
             "twitter_url": "https://twitter.com/worrydream"
           },
           {
@@ -816,8 +816,8 @@
           {
             "title": "Carlos Santos’ Blog",
             "author": "Carlos Santos",
-            "site_url": "https://crsantos.info",
-            "feed_url": "https://crsantos.info/rss.xml",
+            "site_url": "http://ww25.crsantos.info/?subid1=20251225-1829-532f-9cf3-60d32d8260bd",
+            "feed_url": "http://ww25.crsantos.info/rss.xml?subid1=20251225-1829-5306-8c52-bf87819168fc",
             "twitter_url": "https://twitter.com/crsantos"
           },
           {
@@ -880,7 +880,7 @@
             "title": "Chris Dzombak’s Blog",
             "author": "Chris Dzombak",
             "site_url": "https://www.dzombak.com/blog/",
-            "feed_url": "https://www.dzombak.com/atom.xml",
+            "feed_url": "https://www.dzombak.com/blog/rss/",
             "twitter_url": "https://twitter.com/cdzombak"
           },
           {
@@ -985,7 +985,7 @@
             "title": "Cocoacasts",
             "author": "Bart Jacobs",
             "site_url": "https://cocoacasts.com/blog",
-            "feed_url": "https://cocoacasts.com/feed",
+            "feed_url": "https://cocoacasts.com/feed.rss",
             "twitter_url": "https://twitter.com/_bartjacobs"
           },
           {
@@ -1046,8 +1046,8 @@
           {
             "title": "Collin Donnell’s Blog",
             "author": "Collin Donnell",
-            "site_url": "https://collindonnell.com/",
-            "feed_url": "https://collindonnell.com/feed/",
+            "site_url": "https://collin.blog/",
+            "feed_url": "https://collin.blog/feed/",
             "twitter_url": "https://twitter.com/collindonnell",
             "mastodon_url": "https://ruby.social/@collin"
           },
@@ -1113,8 +1113,8 @@
           {
             "title": "Dadederk",
             "author": "Daniel Devesa Derksen-Staats",
-            "site_url": "https://dadederk.github.io",
-            "feed_url": "https://dadederk.github.io/index.xml",
+            "site_url": "https://accessibilityupto11.com/",
+            "feed_url": "https://accessibilityupto11.com/index.xml",
             "twitter_url": "https://twitter.com/dadederk"
           },
           {
@@ -1191,8 +1191,8 @@
           {
             "title": "Danijela Vrzan's Blog",
             "author": "Danijela Vrzan",
-            "site_url": "https://www.danijelavrzan.com/",
-            "feed_url": "https://www.danijelavrzan.com/feed.rss",
+            "site_url": "https://danijelavrzan.com/",
+            "feed_url": "https://danijelavrzan.com/feed.rss",
             "twitter_url": "https://twitter.com/dvrzan"
           },
           {
@@ -1249,7 +1249,7 @@
             "title": "David Seek’s Blog",
             "author": "David Seek and Ting Becker",
             "site_url": "https://www.davidseek.com",
-            "feed_url": "https://www.davidseek.com/rss/",
+            "feed_url": "https://www.davidseek.com/_feather/rss.xml",
             "twitter_url": "https://twitter.com/davidseek"
           },
           {
@@ -1851,8 +1851,8 @@
           {
             "title": "Hi, I’m Sam",
             "author": "Sam Soffes",
-            "site_url": "https://soffes.com/blog/",
-            "feed_url": "https://soffes.com/blog/rss/",
+            "site_url": "https://soff.es/blog/",
+            "feed_url": "https://soff.es/blog/rss/",
             "twitter_url": "https://twitter.com/soffes"
           },
           {
@@ -1880,14 +1880,14 @@
             "title": "Human Friendly Blog",
             "author": "Joseph Lord",
             "site_url": "https://blog.human-friendly.com",
-            "feed_url": "http://blog.human-friendly.com/posts.atom",
+            "feed_url": "https://blog.human-friendly.com/posts.atom",
             "twitter_url": "https://twitter.com/jl_hfl"
           },
           {
             "title": "Hwee-Boon Yar’s Blog",
             "author": "Hwee-Boon Yar",
-            "site_url": "http://hboon.com",
-            "feed_url": "http://hboon.com/feed/",
+            "site_url": "https://hboon.com/",
+            "feed_url": "https://hboon.com/feed/",
             "twitter_url": "https://twitter.com/hboon"
           },
           {
@@ -2263,8 +2263,8 @@
           {
             "title": "Just Sit And Grin",
             "author": "Artem Loenko",
-            "site_url": "https://dive.github.io/",
-            "feed_url": "https://dive.github.io/index.xml",
+            "site_url": "https://justsitandgrin.im/",
+            "feed_url": "https://justsitandgrin.im/index.xml",
             "twitter_url": "https://twitter.com/justsitandgrin"
           },
           {
@@ -2304,8 +2304,8 @@
           {
             "title": "Kaya Thomas’ Blog",
             "author": "Kaya Thomas",
-            "site_url": "https://kaya.dev/blog/",
-            "feed_url": "https://kaya.dev/feed.rss",
+            "site_url": "https://www.kaya.dev/blog/",
+            "feed_url": "https://www.kaya.dev/feed.rss",
             "twitter_url": "https://twitter.com/kthomas901"
           },
           {
@@ -2373,8 +2373,8 @@
           {
             "title": "Krzysztof Zabłocki’s Blog",
             "author": "Krzysztof Zabłocki",
-            "site_url": "https://www.merowing.info/post/",
-            "feed_url": "https://www.merowing.info/index.xml/",
+            "site_url": "https://merowing.info/post/",
+            "feed_url": "https://merowing.info/index.xml/",
             "twitter_url": "https://twitter.com/merowing_"
           },
           {
@@ -2490,8 +2490,8 @@
           {
             "title": "Lux Mentis",
             "author": "Adrian Ross",
-            "site_url": "https://luxmentis.org",
-            "feed_url": "https://luxmentis.org/rss/",
+            "site_url": "https://luxmentis.org/blog/",
+            "feed_url": "https://luxmentis.org/atom.xml",
             "twitter_url": "https://twitter.com/adrianross"
           },
           {
@@ -2695,7 +2695,7 @@
             "title": "Matt Massicotte's Blog",
             "author": "Matt Massicotte",
             "site_url": "https://www.massicotte.org/",
-            "feed_url": "https://www.massicotte.org/feed.xml",
+            "feed_url": "https://www.massicotte.org/atom.xml",
             "twitter_url": "https://twitter.com/mattie"
           },
           {
@@ -2722,8 +2722,8 @@
           {
             "title": "Matthew’s Dev Blog",
             "author": "Matthew Flint",
-            "site_url": "https://daringsnowball.net/articles/",
-            "feed_url": "https://daringsnowball.net/feed.rss",
+            "site_url": "https://daringsnowball.net/",
+            "feed_url": "https://daringsnowball.net/",
             "mastodon_url": "https://mastodon.me.uk/@matthew"
           },
           {
@@ -2970,8 +2970,8 @@
           {
             "title": "myeyesareblind's Blog",
             "author": "Max",
-            "site_url": "http://myeyesareblind.com/",
-            "feed_url": "http://myeyesareblind.com/feed.xml",
+            "site_url": "http://www.myeyesareblind.com/",
+            "feed_url": "http://www.myeyesareblind.com/feed.xml",
             "twitter_url": "https://twitter.com/myeyesareblnd"
           },
           {
@@ -3066,7 +3066,7 @@
           {
             "title": "Noah Gilmore’s Blog",
             "author": "Noah Gilmore",
-            "site_url": "https://noahgilmore.com/blog/tags/ios/",
+            "site_url": "https://noahgilmore.com/blog/tags/ios",
             "feed_url": "https://noahgilmore.com/blog/ios.xml",
             "twitter_url": "https://twitter.com/noahsark769"
           },
@@ -3349,8 +3349,8 @@
           {
             "title": "Peter Steinberger’s Blog",
             "author": "Peter Steinberger",
-            "site_url": "https://steipete.com",
-            "feed_url": "https://steipete.com/feed.xml",
+            "site_url": "https://steipete.me/",
+            "feed_url": "https://steipete.me/feed.xml",
             "twitter_url": "https://twitter.com/steipete"
           },
           {
@@ -3420,8 +3420,8 @@
           {
             "title": "The Product Engineer",
             "author": "Manu Herrera",
-            "site_url": "https://mdb1.github.io/",
-            "feed_url": "https://mdb1.github.io/feed.xml",
+            "site_url": "http://manu.show/",
+            "feed_url": "http://manu.show/feed.xml",
             "twitter_url": "https://twitter.com/manuherrera1"
           },
           {
@@ -3470,7 +3470,7 @@
             "title": "Ralf Ebert's Blog",
             "author": "Ralf Ebert",
             "site_url": "https://www.ralfebert.com/blog/",
-            "feed_url": "https://www.ralfebert.com/blog/index.rss",
+            "feed_url": "https://swiftui-garden.com/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
           },
           {
@@ -3553,8 +3553,8 @@
           {
             "title": "Riley Testut’s Blog",
             "author": "Riley Testut",
-            "site_url": "http://rileytestut.com/blog/",
-            "feed_url": "http://rileytestut.com/feed.xml",
+            "site_url": "https://rileytestut.com/blog/",
+            "feed_url": "https://rileytestut.com/feed.xml",
             "twitter_url": "https://twitter.com/rileytestut"
           },
           {
@@ -3796,7 +3796,7 @@
             "title": "SICPERS",
             "author": "Graham Lee",
             "site_url": "https://www.sicpers.info/",
-            "feed_url": "http://www.sicpers.info/feed/",
+            "feed_url": "https://sicpers.info/feed/",
             "twitter_url": "https://twitter.com/iwasleeg"
           },
           {
@@ -3837,8 +3837,8 @@
           {
             "title": "skagedal’s oboy",
             "author": "Simon Kågedal Reimer",
-            "site_url": "https://blog.skagedal.tech",
-            "feed_url": "https://blog.skagedal.tech/feed.xml",
+            "site_url": "https://skagedal.tech/",
+            "feed_url": "https://skagedal.tech/feed.xml",
             "twitter_url": "https://twitter.com/skagedal"
           },
           {
@@ -4013,8 +4013,8 @@
           {
             "title": "Swift and Pizza",
             "author": "Daniele Bogo",
-            "site_url": "https://swiftandpizza.com/",
-            "feed_url": "https://swiftandpizza.com/feed/",
+            "site_url": "https://swiftandpizza.wordpress.com/",
+            "feed_url": "https://swiftandpizza.wordpress.com/feed/",
             "twitter_url": "https://twitter.com/theillbo"
           },
           {
@@ -4151,8 +4151,8 @@
           {
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
-            "site_url": "https://swifting.io/",
-            "feed_url": "https://swifting.io/feed.xml",
+            "site_url": "https://k8spatterns.io/",
+            "feed_url": "https://k8spatterns.io/",
             "twitter_url": "https://twitter.com/swiftingio"
           },
           {
@@ -4369,8 +4369,8 @@
           {
             "title": "Tomasz Szulc’s Blog",
             "author": "Tomasz Szulc",
-            "site_url": "http://szulctomasz.com/programming-blog/",
-            "feed_url": "http://szulctomasz.com/programming-blog/index.xml",
+            "site_url": "https://szulctomasz.com/programming-blog/",
+            "feed_url": "https://szulctomasz.com/programming-blog/index.xml",
             "twitter_url": "https://twitter.com/tomkowz"
           },
           {
@@ -4529,8 +4529,8 @@
           {
             "title": "We ❤ Swift",
             "author": "Andrei Puni, Catalin Perticas and Cazoni Robert",
-            "site_url": "https://www.weheartswift.com",
-            "feed_url": "https://www.weheartswift.com/feed/"
+            "site_url": "https://www.coatesdatastrategies.com/",
+            "feed_url": "https://www.coatesdatastrategies.com/"
           },
           {
             "title": "Weaponized Fluff",
@@ -4721,8 +4721,8 @@
           {
             "title": "Mathew Sanders’ Blog",
             "author": "Mathew Sanders",
-            "site_url": "http://mathewsanders.com",
-            "feed_url": "http://mathewsanders.com/feed.xml",
+            "site_url": "https://mathewsanders.com/",
+            "feed_url": "https://mathewsanders.com/feed.xml",
             "twitter_url": "https://twitter.com/permakittens"
           },
           {
@@ -4736,7 +4736,7 @@
             "title": "Max Rudberg’s Blog",
             "author": "Max Rudberg",
             "site_url": "https://blog.maxrudberg.com/",
-            "feed_url": "https://blog.maxrudberg.com/rss",
+            "feed_url": "https://blog.maxrudberg.com/rss/",
             "twitter_url": "https://twitter.com/maxrudberg"
           },
           {
@@ -4769,8 +4769,8 @@
           {
             "title": "Sahand Nayebaziz's Blog",
             "author": "Sahand Nayebaziz",
-            "site_url": "https://www.sahandnayebaziz.org",
-            "feed_url": "https://www.sahandnayebaziz.org/rss.xml",
+            "site_url": "https://sahandnayebaziz.org/",
+            "feed_url": "https://sahandnayebaziz.org/rss.xml",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
           },
           {
@@ -4818,8 +4818,8 @@
           {
             "title": "Appfigures Blog",
             "author": "Appfigures Team",
-            "site_url": "https://blog.appfigures.com/",
-            "feed_url": "https://blog.appfigures.com/feed/",
+            "site_url": "https://appfigures.com/resources",
+            "feed_url": "https://appfigures.com/resources",
             "twitter_url": "https://twitter.com/appfigures"
           },
           {
@@ -4847,7 +4847,7 @@
             "title": "ASO Stack on Medium",
             "author": "ASO Stack team",
             "site_url": "https://phiture.com/asostack/",
-            "feed_url": "https://phiture.com/asostack/feed/",
+            "feed_url": "https://phiture.com/asostack/",
             "twitter_url": "https://twitter.com/phituregrowth"
           },
           {
@@ -4930,7 +4930,7 @@
           {
             "title": "47 Degrees Blog",
             "author": "47 Degrees",
-            "site_url": "https://www.47deg.com/blog/",
+            "site_url": "https://xebia.com/blog/?utm_source=47deg&utm_medium=redirect&utm_campaign=consolidation&utm_content=blog",
             "feed_url": "https://www.47deg.com/feed.xml",
             "twitter_url": "https://twitter.com/47deg"
           },
@@ -4977,8 +4977,8 @@
           {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
-            "site_url": "https://bignerdranch.com/blog/category/ios/",
-            "feed_url": "https://bignerdranch.com/blog/category/ios/feed/",
+            "site_url": "https://www.amdocs.com/products-services/experience-digital-engineering-studio?publication=welcome&source=bnr",
+            "feed_url": "https://www.amdocs.com/products-services/experience-digital-engineering-studio?publication=welcome&source=bnr",
             "twitter_url": "https://twitter.com/bignerdranch"
           },
           {
@@ -5060,8 +5060,8 @@
           {
             "title": "Coletiv Studio Blog",
             "author": "Coletiv Studio",
-            "site_url": "https://www.coletiv.com/blog/",
-            "feed_url": "https://www.coletiv.com/rss.xml",
+            "site_url": "https://coletiv.com/blog/",
+            "feed_url": "https://coletiv.com/rss.xml",
             "twitter_url": "https://twitter.com/coletivstudio"
           },
           {
@@ -5108,8 +5108,8 @@
           {
             "title": "The Distance – iOS Posts",
             "author": "The Distance",
-            "site_url": "https://thedistance.co.uk/category/ios/",
-            "feed_url": "https://thedistance.co.uk/category/ios/feed/",
+            "site_url": "https://thedistance.co.uk/category/ios",
+            "feed_url": "https://thedistance.co.uk/category/ios/feed",
             "twitter_url": "https://twitter.com/thedistancehq"
           },
           {
@@ -5230,7 +5230,7 @@
           {
             "title": "Ideamotive Blog - iOS",
             "author": "Ideamotive Team",
-            "site_url": "https://www.ideamotive.co/blog/tag/ios-development",
+            "site_url": "https://www.ideamotive.co/blog",
             "feed_url": "https://www.ideamotive.co/blog/tag/ios-development/rss.xml",
             "twitter_url": "https://twitter.com/ideamotive_co"
           },
@@ -5250,22 +5250,22 @@
           {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
-            "site_url": "https://pspdfkit.com/blog/",
-            "feed_url": "https://pspdfkit.com/blog/feed.atom",
+            "site_url": "https://www.nutrient.io/blog/",
+            "feed_url": "https://www.nutrient.io/sdk",
             "twitter_url": "https://twitter.com/pspdfkit"
           },
           {
             "title": "Instabug Blog",
             "author": "Instabug Team",
-            "site_url": "https://www.instabug.com/blog",
-            "feed_url": "https://www.instabug.com/blog/feed",
+            "site_url": "https://www.luciq.ai/blog",
+            "feed_url": "https://www.luciq.ai/blog/feed",
             "twitter_url": "https://twitter.com/instabug"
           },
           {
             "title": "Itty Bitty Apps Blog",
             "author": "Itty Bitty Apps Team",
-            "site_url": "https://www.ittybittyapps.com/blog/",
-            "feed_url": "https://www.ittybittyapps.com/blog/index.xml",
+            "site_url": "https://mantelgroup.com.au",
+            "feed_url": "https://mantelgroup.com.au",
             "twitter_url": "https://twitter.com/ittybittyapps"
           },
           {
@@ -5286,14 +5286,14 @@
             "title": "LearnAppMaking",
             "author": "Reinder de Vries",
             "site_url": "https://www.appypie.com/app-builder/appmaker",
-            "feed_url": "https://learnappmaking.com/feed",
+            "feed_url": "https://www.appypie.com/ai-app-generator",
             "twitter_url": "https://twitter.com/reinder42"
           },
           {
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://lickability.com/blog/",
-            "feed_url": "https://lickability.com/blog/feed/",
+            "feed_url": "https://lickability.com/feed.xml",
             "twitter_url": "https://twitter.com/lickability"
           },
           {
@@ -5306,8 +5306,8 @@
           {
             "title": "mobile.dev Blog",
             "author": "mobile.dev Engineering team",
-            "site_url": "https://blog.mobile.dev/",
-            "feed_url": "https://blog.mobile.dev/feed",
+            "site_url": "https://maestro.dev",
+            "feed_url": "https://maestro.dev/feed",
             "twitter_url": "https://twitter.com/mobile__dev"
           },
           {
@@ -5319,15 +5319,15 @@
           {
             "title": "Montana Floss Co. Blog",
             "author": "Montana Floss Team",
-            "site_url": "https://www.montanafloss.co/blog/?category=Technical",
-            "feed_url": "https://www.montanafloss.co/blog/?format=RSS&category=Technical",
+            "site_url": "https://montanafloss.co/blog/?category=Technical",
+            "feed_url": "https://montanafloss.co/blog/?category=Technical",
             "twitter_url": "https://twitter.com/montanafloss"
           },
           {
             "title": "Moove it Blog",
             "author": "Moove it Team",
-            "site_url": "https://blog.moove-it.com",
-            "feed_url": "https://blog.moove-it.com/feed/",
+            "site_url": "https://qubika.com/mooveit/",
+            "feed_url": "https://qubika.com/mooveit/",
             "twitter_url": "https://twitter.com/moove_it"
           },
           {
@@ -5409,7 +5409,7 @@
           {
             "title": "Remotion Blog",
             "author": "Remotion Team",
-            "site_url": "http://multi.app/blog",
+            "site_url": "https://multi.app/blog",
             "feed_url": "https://updates.remotion.com/rss/blog.xml",
             "twitter_url": "https://twitter.com/remotionco"
           },
@@ -5450,8 +5450,8 @@
           {
             "title": "Runtastic Tech Blog",
             "author": "Runtastic iOS Devs",
-            "site_url": "https://www.runtastic.com/blog/en/tag/ios/",
-            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed/",
+            "site_url": "https://www.runtastic.com/blog/en/tag/ios",
+            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed",
             "twitter_url": "https://twitter.com/Runtastic"
           },
           {
@@ -5471,8 +5471,8 @@
           {
             "title": "Sidetrack",
             "author": "James Sherlock",
-            "site_url": "https://blog.sidetrack.app/",
-            "feed_url": "https://blog.sidetrack.app/feed.xml",
+            "site_url": "https://james.sidetrack.app/blog/",
+            "feed_url": "https://james.sidetrack.app/blog/feed.xml",
             "twitter_url": "https://twitter.com/GetSidetrack"
           },
           {
@@ -5592,7 +5592,7 @@
             "title": "AppForce1 Podcast",
             "author": "Jeroen Leenarts",
             "site_url": "https://appforce1.net/podcast/",
-            "feed_url": "https://feeds.buzzsprout.com/1414396.rss",
+            "feed_url": "https://rss.buzzsprout.com/1414396.rss",
             "twitter_url": "https://twitter.com/appforce1"
           },
           {
@@ -5620,7 +5620,7 @@
             "title": "Constant Variables",
             "author": "Tim Bornholdt and Robert Bentley",
             "site_url": "https://constantvariables.co",
-            "feed_url": "https://constantvariables.libsyn.com/rss",
+            "feed_url": "https://rss.libsyn.com/shows/111279/destinations/616390.xml",
             "twitter_url": "https://twitter.com/cv_podcast"
           },
           {
@@ -5655,8 +5655,8 @@
           {
             "title": "Everyday robots",
             "author": "Jonathan Ruiz",
-            "site_url": "https://everydayrobots.tech/",
-            "feed_url": "https://everydayrobots.libsyn.com/rss",
+            "site_url": "https://robots.net",
+            "feed_url": "https://rss.libsyn.com/shows/211829/destinations/1530128.xml",
             "twitter_url": "https://twitter.com/_everydayrobots"
           },
           {
@@ -5696,21 +5696,21 @@
           {
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
-            "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
+            "site_url": "https://creators.spotify.com/pod/show/scottsmithdev",
             "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
             "title": "iOS Dev Break",
             "author": "Evan K. Stone",
-            "site_url": "https://www.iosdevbreak.com/",
-            "feed_url": "https://iosdevbreak.libsyn.com/rss",
+            "site_url": "https://iosdevbreak.com/",
+            "feed_url": "https://feeds.transistor.fm/ios-dev-break",
             "twitter_url": "https://twitter.com/iosdevbreak"
           },
           {
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://topenddevs.com/podcasts/iphreaks",
-            "feed_url": "https://feeds.redcircle.com/10388ad5-937c-49ef-a8ff-fc59f8214fbe",
+            "feed_url": "https://www.spreaker.com/show/6102052/episodes/feed",
             "twitter_url": "https://twitter.com/iphreaks"
           },
           {
@@ -5723,14 +5723,14 @@
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "http://www.mtjc.fm",
-            "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
+            "feed_url": "https://feeds.acast.com/public/shows/646bd59620e0700011d52174",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
           {
             "title": "Race Condition",
             "author": "Josh Adams",
             "site_url": "https://racecondition.software",
-            "feed_url": "https://feeds.buzzsprout.com/2077882.rss",
+            "feed_url": "https://rss.buzzsprout.com/2077882.rss",
             "twitter_url": "https://twitter.com/vermont42"
           },
           {
@@ -5777,13 +5777,13 @@
             "title": "The Swift Community Podcast",
             "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
             "site_url": "https://www.swiftcommunitypodcast.org/",
-            "feed_url": "https://swiftcommunitypodcast.org/?format=rss",
+            "feed_url": "https://www.swiftcommunitypodcast.org/?format=rss",
             "twitter_url": "https://twitter.com/theswiftpodcast"
           },
           {
             "title": "Swift over Coffee",
             "author": "Paul Hudson and Sean Allen",
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "site_url": "https://creators.spotify.com/pod/show/swiftovercoffee",
             "twitter_url": "https://twitter.com/swiftovercoffee",
             "feed_url": "https://anchor.fm/s/572fc68/podcast/rss"
           },
@@ -5860,8 +5860,8 @@
           {
             "title": "iOS CI Newsletter",
             "author": "Pol Piella Abadia",
-            "site_url": "https://www.polpiella.dev/newsletter",
-            "feed_url": "https://www.polpiella.dev/newsletter/rss.xml",
+            "site_url": "https://www.ioscinewsletter.com",
+            "feed_url": "https://www.ioscinewsletter.com/issues/rss.xml",
             "twitter_url": "https://twitter.com/polpielladev"
           },
           {
@@ -5875,7 +5875,7 @@
             "title": "iOS Dev Tools",
             "author": "Max Ott",
             "site_url": "https://iosdev.tools/",
-            "feed_url": "https://iosdev.tools/rss/",
+            "feed_url": "https://iosdev.tools/feed/",
             "twitter_url": "https://twitter.com/iOSDevTools"
           },
           {
@@ -5896,8 +5896,8 @@
           {
             "title": "iOS Stack Weekly",
             "author": "Jimmy Sanghani",
-            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
-            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
+            "site_url": "https://canopas.com/tagged/canopas-ios-weekly",
+            "feed_url": "https://canopas.com/feed/tagged/canopas-ios-weekly",
             "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
@@ -6549,8 +6549,8 @@
           {
             "title": "肘子的Swift记事本",
             "author": "东坡肘子(@fatbobman)",
-            "site_url": "https://www.fatbobman.com",
-            "feed_url": "https://www.fatbobman.com/feed.rss",
+            "site_url": "https://fatbobman.com/",
+            "feed_url": "https://fatbobman.com/feed.rss",
             "twitter_url": "https://twitter.com/fatbobman"
           }
         ]
@@ -6686,8 +6686,8 @@
           {
             "title": "tucan’s blog",
             "author": "tucan.dev",
-            "site_url": "https://blog.canapio.com/",
-            "feed_url": "http://blog.canapio.com/rss"
+            "site_url": "http://ww38.blog.canapio.com/",
+            "feed_url": "http://ww25.blog.canapio.com/rss?subid1=20251225-1905-4314-a33d-98fa2a7f3fff"
           }
         ]
       }
@@ -6753,7 +6753,7 @@
           {
             "title": "alexruperez.com",
             "author": "Alex Rupérez",
-            "site_url": "http://www.alexruperez.com/entries",
+            "site_url": "https://www..alexruperez.com/entries",
             "feed_url": "http://feeds.alexruperez.com/alexruperez",
             "twitter_url": "https://twitter.com/alexruperez"
           },
@@ -6823,7 +6823,7 @@
           {
             "title": "Let Swift Podcast",
             "author": "Angel Morales K & Pitt",
-            "site_url": "https://podcasters.spotify.com/pod/show/let-swift-podcast",
+            "site_url": "https://creators.spotify.com/pod/show/let-swift-podcast",
             "twitter_url": "https://twitter.com/letswiftpodcast",
             "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
           }
@@ -6892,14 +6892,14 @@
           {
             "title": "S.T.H Brewery 鍵盤藍綠藻",
             "author": "ShihTing Huang",
-            "site_url": "https://huangshihting.works/blog",
-            "feed_url": "https://huangshihting.works/blog/rss",
+            "site_url": "https://huangshihting.works/blog/",
+            "feed_url": "https://huangshihting.works/blog/rss/",
             "twitter_url": "https://twitter.com/KoromikoNeo"
           },
           {
             "title": "ZhgChgLi on Medium",
             "author": "ZhongCheng Li",
-            "site_url": "https://blog.zhgchg.li/",
+            "site_url": "https://medium.com/@zhgchgli",
             "feed_url": "https://medium.com/feed/@zhgchgli",
             "twitter_url": "https://twitter.com/zhgchgli"
           }
@@ -6978,7 +6978,7 @@
             "title": "Ralf Ebert's Blog",
             "author": "Ralf Ebert",
             "site_url": "https://www.ralfebert.de/blog/",
-            "feed_url": "https://www.ralfebert.de/blog/index.rss",
+            "feed_url": "https://swiftui-garden.com/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
           }
         ]
@@ -7045,8 +7045,8 @@
           {
             "title": "DoorDash Engineering Blog",
             "author": "DoorDash Engineering Team",
-            "site_url": "https://doordash.engineering/category/mobile/",
-            "feed_url": "https://doordash.engineering/category/mobile/feed/",
+            "site_url": "https://careersatdoordash.com/engineering-blog/",
+            "feed_url": "https://careersatdoordash.com/engineering-blog/",
             "twitter_url": "https://twitter.com/doordasheng"
           },
           {
